@@ -1,0 +1,98 @@
+.logo {
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+  width: 100%;
+  text-align:center;
+  text-decoration: none;
+  color: black;
+  padding-left: 15px;
+}
+
+nav {
+  width: 100%;
+}
+
+.navlinks {
+  font-family: proxima-nova, sans-serif;
+  width: 100px;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+}
+
+ul {
+  width: 50%;
+  margin-left: auto;
+  vertical-align: top;
+}
+
+.heroImg {
+  height: 600px;
+  padding: 25px;
+}
+
+.content {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.my_header {
+  display: grid;
+  grid-template-columns: 15% 85%;
+  padding-top: 20px;
+
+}
+
+.content {
+  display: grid;
+  grid-template-columns: 95% 5%;
+}
+
+button {
+  background-color: #5B09CB;
+  width: 200px;
+  height: 50px;
+  padding: 12px;
+  color: white;
+  font-size: 14px;
+  font-family: proxima-nova, sans-serif;
+  border-radius: 3px;
+  justify-content: center;
+}
+
+h1, h2 {
+  margin-bottom:30px;
+}
+
+h1 {
+  font-size:50px;
+  font-family: 'Poppins', sans-serif;
+}
+
+h2 {
+  font-size:18px;
+  font-family: proxima-nova, sans-serif;
+  font-style: normal;
+  line-height: 30px;
+}
+
+h3 {
+  font-size: 14px;
+  font-family: proxima-nova, sans-serif;
+}
+
+.inline-block {
+  display:flex;
+  justify-content: flex-end;
+  padding-right: 5%;
+}
+
+.links {
+  display: flex;
+  background-color: #301667;
+  height: 100px;
+}
+
+.paragraph {
+  padding-top: 50px;
+}
